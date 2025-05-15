@@ -1,0 +1,8 @@
+prefix=/Users/alextsvetanov/GitHub/TestingInterfaces/install
+libdir=/Users/alextsvetanov/GitHub/TestingInterfaces/install/lib
+includedir=/Users/alextsvetanov/GitHub/TestingInterfaces/install/include
+
+Name: xsimd
+Description: xsimd provides a unified means for using SIMD features for library authors..
+Version: 13.2.0
+Cflags: -I${includedir}
