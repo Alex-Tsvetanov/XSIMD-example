@@ -1,3 +1,4 @@
 [submodule "xsimd"]
 	path = xsimd
 	url = https://github.com/xtensor-stack/xsimd
+	branch = 13.2.0
